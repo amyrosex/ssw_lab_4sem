@@ -1,4 +1,3 @@
-void main () {
 #include <iostream>
 #include "vector.h"
 #include "queue.h"
